@@ -1,0 +1,42 @@
+Explanation:
+Sorting: The array is sorted to ensure we can efficiently find pairs that satisfy the triangle inequality.
+Two-Pointer Technique: For each potential largest side (nums[i]), we use two pointers (l and h) to find pairs 
+of elements from the start to just before the current element. This allows us to explore valid combinations 
+without re-checking already considered elements.
+Triangle Inequality: The condition nums[l] + nums[h] > nums[i] is directly derived from the triangle inequality
+theorem, ensuring that the triplet can form a triangle. If this condition is satisfied, all pairs starting 
+from l to h with the current nums[h] are valid, and we can count them in one go by cnt += h - l.
+class Solution {
+public:
+    int triangleNumber(vector<int>& nums) {
+        int n = nums.size(); // Get the size of the input array
+        // If there are less than 3 sides, it's not possible to form a triangle
+        if (n < 3)
+            return 0;
+        
+        int cnt = 0; // Initialize a counter to track valid triangle triplets
+        // Sort the array to facilitate the two-pointer technique
+        sort(nums.begin(), nums.end());
+        
+        // Iterate backwards from the largest potential side of the triangle
+        for (int i = n - 1; i >= 2; i--) {
+            int l = 0; // Left pointer starts at the beginning of the array
+            int h = i - 1; // Right pointer starts just before the current side
+            
+            // Use two pointers to find pairs (nums[l], nums[h]) that can form a triangle with nums[i]
+            while (l < h) {
+                // Check if the sum of the two shorter sides is greater than the longest side
+                if (nums[l] + nums[h] > nums[i]) {
+                    // If valid, all pairs from (l, l+1) to (l, h) are valid
+                    cnt += h - l; // Increment the count by the number of valid pairs
+                    h--; // Move the right pointer left to check for other pairs
+                } else {
+                    // If not valid, we need a larger sum, so move the left pointer right
+                    l++;
+                }
+            }
+        }
+        
+        return cnt; // Return the total count of valid triangle triplets
+    }
+};
