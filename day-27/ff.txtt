@@ -1,0 +1,37 @@
+import random
+
+board = [" "] * 9
+
+def show():
+    print("\n".join([" | ".join(board[i:i+3]) for i in range(0, 9, 3)]))
+    print()
+
+def win(p):
+    w = [(0,1,2),(3,4,5),(6,7,8),(0,3,6),(1,4,7),(2,5,8),(0,4,8),(2,4,6)]
+    return any(all(board[i]==p for i in combo) for combo in w)
+
+def ai():
+    for i in range(9):  # Try to win
+        if board[i] == " ":
+            board[i] = "O"
+            if win("O"): return
+            board[i] = " "
+    for i in range(9):  # Block player
+        if board[i] == " ":
+            board[i] = "X"
+            if win("X"):
+                board[i] = "O"; return
+            board[i] = " "
+    choice = random.choice([i for i in range(9) if board[i] == " "])
+    board[choice] = "O"
+
+while True:
+    show()
+    move = int(input("Your move (1-9): ")) - 1
+    if board[move] != " ": print("Taken!"); continue
+    board[move] = "X"
+    if win("X"): show(); print("You win!"); break
+    if " " not in board: show(); print("Draw!"); break
+    ai()
+    if win("O"): show(); print("AI wins!"); break
+    if " " not in board: show(); print("Draw!"); break

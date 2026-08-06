@@ -1,0 +1,1 @@
+ // cout<<"Data of root "<< root->data;
