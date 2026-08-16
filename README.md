@@ -37,6 +37,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mayankshaw7/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -44,6 +45,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mayankshaw7/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -55,6 +57,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mayankshaw7/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -79,4 +82,5 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
