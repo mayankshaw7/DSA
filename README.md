@@ -36,12 +36,14 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mayankshaw7/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mayankshaw7/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -52,6 +54,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mayankshaw7/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -72,4 +75,8 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
