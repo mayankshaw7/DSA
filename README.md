@@ -18,6 +18,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | ------- | ------- |
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankshaw7/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +96,8 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayankshaw7/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
