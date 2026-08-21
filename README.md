@@ -92,6 +92,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayankshaw7/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0901-online-stock-span](https://github.com/mayankshaw7/DSA/tree/main/0901-online-stock-span/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,16 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/mayankshaw7/DSA/tree/main/0901-online-stock-span/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/mayankshaw7/DSA/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/mayankshaw7/DSA/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
