@@ -34,6 +34,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankshaw7/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Tree
@@ -104,6 +105,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankshaw7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
