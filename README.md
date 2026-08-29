@@ -124,6 +124,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/mayankshaw7/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankshaw7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Breadth-First Search
