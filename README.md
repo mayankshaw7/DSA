@@ -28,6 +28,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankshaw7/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankshaw7/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/mayankshaw7/DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayankshaw7/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mayankshaw7/DSA/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 ## Sliding Window
@@ -41,6 +42,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankshaw7/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/mayankshaw7/DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
