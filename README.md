@@ -130,4 +130,8 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mayankshaw7/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/mayankshaw7/DSA/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
