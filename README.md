@@ -20,6 +20,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mayankshaw7/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankshaw7/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2960-count-tested-devices-after-test-operations](https://github.com/mayankshaw7/DSA/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/mayankshaw7/DSA/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayankshaw7/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -114,6 +115,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [2960-count-tested-devices-after-test-operations](https://github.com/mayankshaw7/DSA/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -150,4 +152,8 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2960-count-tested-devices-after-test-operations](https://github.com/mayankshaw7/DSA/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 <!---LeetCode Topics End-->
