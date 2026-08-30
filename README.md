@@ -145,6 +145,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0175-combine-two-tables](https://github.com/mayankshaw7/DSA/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/mayankshaw7/DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/mayankshaw7/DSA/tree/main/0177-nth-highest-salary/) | Medium |
+| [1757-recyclable-and-low-fat-products](https://github.com/mayankshaw7/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
