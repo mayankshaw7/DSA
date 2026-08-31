@@ -17,6 +17,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0605-can-place-flowers](https://github.com/mayankshaw7/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mayankshaw7/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
@@ -166,6 +167,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0605-can-place-flowers](https://github.com/mayankshaw7/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mayankshaw7/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
