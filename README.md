@@ -137,6 +137,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/mayankshaw7/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankshaw7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mayankshaw7/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -181,4 +183,8 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
