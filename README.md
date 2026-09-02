@@ -28,6 +28,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayankshaw7/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mayankshaw7/DSA/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/mayankshaw7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankshaw7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/mayankshaw7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
