@@ -167,6 +167,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [1683-invalid-tweets](https://github.com/mayankshaw7/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mayankshaw7/DSA/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/mayankshaw7/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/mayankshaw7/DSA/tree/main/1789-primary-department-for-each-employee/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
