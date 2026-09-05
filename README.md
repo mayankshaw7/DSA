@@ -163,6 +163,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0180-consecutive-numbers](https://github.com/mayankshaw7/DSA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0584-find-customer-referee](https://github.com/mayankshaw7/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/mayankshaw7/DSA/tree/main/0595-big-countries/) | Easy |
+| [0610-triangle-judgement](https://github.com/mayankshaw7/DSA/tree/main/0610-triangle-judgement/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/mayankshaw7/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/mayankshaw7/DSA/tree/main/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/mayankshaw7/DSA/tree/main/1251-average-selling-price/) | Easy |
