@@ -50,6 +50,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankshaw7/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayankshaw7/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankshaw7/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -185,6 +186,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,4 +213,8 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
