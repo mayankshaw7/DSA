@@ -184,6 +184,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [1757-recyclable-and-low-fat-products](https://github.com/mayankshaw7/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/mayankshaw7/DSA/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1907-count-salary-categories](https://github.com/mayankshaw7/DSA/tree/main/1907-count-salary-categories/) | Medium |
+| [1934-confirmation-rate](https://github.com/mayankshaw7/DSA/tree/main/1934-confirmation-rate/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
