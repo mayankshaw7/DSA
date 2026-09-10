@@ -178,6 +178,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [1075-project-employees-i](https://github.com/mayankshaw7/DSA/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/mayankshaw7/DSA/tree/main/1148-article-views-i/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/mayankshaw7/DSA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1211-queries-quality-and-percentage](https://github.com/mayankshaw7/DSA/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/mayankshaw7/DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1341-movie-rating](https://github.com/mayankshaw7/DSA/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mayankshaw7/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
