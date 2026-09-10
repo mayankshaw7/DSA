@@ -169,6 +169,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0177-nth-highest-salary](https://github.com/mayankshaw7/DSA/tree/main/0177-nth-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/mayankshaw7/DSA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0183-customers-who-never-order](https://github.com/mayankshaw7/DSA/tree/main/0183-customers-who-never-order/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/mayankshaw7/DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/mayankshaw7/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/mayankshaw7/DSA/tree/main/0595-big-countries/) | Easy |
 | [0610-triangle-judgement](https://github.com/mayankshaw7/DSA/tree/main/0610-triangle-judgement/) | Easy |
