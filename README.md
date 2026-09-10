@@ -175,6 +175,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0610-triangle-judgement](https://github.com/mayankshaw7/DSA/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/mayankshaw7/DSA/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/mayankshaw7/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/mayankshaw7/DSA/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/mayankshaw7/DSA/tree/main/1148-article-views-i/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/mayankshaw7/DSA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1251-average-selling-price](https://github.com/mayankshaw7/DSA/tree/main/1251-average-selling-price/) | Easy |
