@@ -19,6 +19,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0198-house-robber](https://github.com/mayankshaw7/DSA/tree/main/0198-house-robber/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/mayankshaw7/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
@@ -155,6 +156,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0062-unique-paths](https://github.com/mayankshaw7/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
 | [0412-fizz-buzz](https://github.com/mayankshaw7/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankshaw7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/mayankshaw7/DSA/tree/main/3870-count-commas-in-range/) | Easy |
@@ -207,6 +209,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0062-unique-paths](https://github.com/mayankshaw7/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0198-house-robber](https://github.com/mayankshaw7/DSA/tree/main/0198-house-robber/) | Medium |
+| [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -251,13 +254,20 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
