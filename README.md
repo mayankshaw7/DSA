@@ -71,6 +71,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mayankshaw7/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/mayankshaw7/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mayankshaw7/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/mayankshaw7/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -108,6 +110,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
