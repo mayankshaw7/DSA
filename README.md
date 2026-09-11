@@ -150,6 +150,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/mayankshaw7/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0062-unique-paths](https://github.com/mayankshaw7/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
 | [0412-fizz-buzz](https://github.com/mayankshaw7/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankshaw7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -200,6 +201,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/mayankshaw7/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/mayankshaw7/DSA/tree/main/0198-house-robber/) | Medium |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -233,4 +235,8 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/mayankshaw7/DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
