@@ -21,6 +21,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/mayankshaw7/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
+| [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mayankshaw7/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mayankshaw7/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -154,6 +155,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0062-unique-paths](https://github.com/mayankshaw7/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
 | [0412-fizz-buzz](https://github.com/mayankshaw7/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankshaw7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/mayankshaw7/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/mayankshaw7/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -206,6 +208,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0198-house-robber](https://github.com/mayankshaw7/DSA/tree/main/0198-house-robber/) | Medium |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
+| [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -245,4 +248,16 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
