@@ -189,6 +189,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0626-exchange-seats](https://github.com/mayankshaw7/DSA/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/mayankshaw7/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/mayankshaw7/DSA/tree/main/1075-project-employees-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/mayankshaw7/DSA/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/mayankshaw7/DSA/tree/main/1148-article-views-i/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/mayankshaw7/DSA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/mayankshaw7/DSA/tree/main/1211-queries-quality-and-percentage/) | Easy |
