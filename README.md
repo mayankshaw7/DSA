@@ -198,6 +198,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [1321-restaurant-growth](https://github.com/mayankshaw7/DSA/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/mayankshaw7/DSA/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mayankshaw7/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/mayankshaw7/DSA/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/mayankshaw7/DSA/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/mayankshaw7/DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/mayankshaw7/DSA/tree/main/1683-invalid-tweets/) | Easy |
