@@ -199,6 +199,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [1341-movie-rating](https://github.com/mayankshaw7/DSA/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mayankshaw7/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/mayankshaw7/DSA/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/mayankshaw7/DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/mayankshaw7/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/mayankshaw7/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mayankshaw7/DSA/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
