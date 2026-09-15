@@ -18,6 +18,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0198-house-robber](https://github.com/mayankshaw7/DSA/tree/main/0198-house-robber/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/mayankshaw7/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/mayankshaw7/DSA/tree/main/0605-can-place-flowers/) | Easy |
@@ -241,14 +242,17 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mayankshaw7/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mayankshaw7/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mayankshaw7/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -285,4 +289,8 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mayankshaw7/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
