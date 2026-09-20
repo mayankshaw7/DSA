@@ -65,6 +65,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankshaw7/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/mayankshaw7/DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/mayankshaw7/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0412-fizz-buzz](https://github.com/mayankshaw7/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mayankshaw7/DSA/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/mayankshaw7/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
