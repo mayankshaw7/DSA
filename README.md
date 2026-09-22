@@ -278,6 +278,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0077-combinations](https://github.com/mayankshaw7/DSA/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
