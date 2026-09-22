@@ -79,6 +79,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0145-binary-tree-postorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mayankshaw7/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/mayankshaw7/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -92,6 +93,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0145-binary-tree-postorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mayankshaw7/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/mayankshaw7/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
 ## String Matching
@@ -109,6 +111,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0145-binary-tree-postorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mayankshaw7/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/mayankshaw7/DSA/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -123,6 +126,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0162-find-peak-element](https://github.com/mayankshaw7/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayankshaw7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayankshaw7/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
