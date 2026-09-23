@@ -16,6 +16,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/mayankshaw7/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0135-candy](https://github.com/mayankshaw7/DSA/tree/main/0135-candy/) | Hard |
 | [0162-find-peak-element](https://github.com/mayankshaw7/DSA/tree/main/0162-find-peak-element/) | Medium |
@@ -278,6 +279,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/mayankshaw7/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0077-combinations](https://github.com/mayankshaw7/DSA/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
 ## Longest Common Subsequence
