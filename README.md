@@ -43,6 +43,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankshaw7/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mayankshaw7/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayankshaw7/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankshaw7/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -60,6 +61,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankshaw7/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mayankshaw7/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/mayankshaw7/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/mayankshaw7/DSA/tree/main/0412-fizz-buzz/) | Easy |
@@ -281,6 +283,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mayankshaw7/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/mayankshaw7/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/mayankshaw7/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0077-combinations](https://github.com/mayankshaw7/DSA/tree/main/0077-combinations/) | Medium |
