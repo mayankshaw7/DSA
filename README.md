@@ -35,6 +35,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [2960-count-tested-devices-after-test-operations](https://github.com/mayankshaw7/DSA/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/mayankshaw7/DSA/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayankshaw7/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayankshaw7/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mayankshaw7/DSA/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayankshaw7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -183,6 +184,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0412-fizz-buzz](https://github.com/mayankshaw7/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayankshaw7/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankshaw7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/mayankshaw7/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/mayankshaw7/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
