@@ -28,6 +28,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0860-lemonade-change](https://github.com/mayankshaw7/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/mayankshaw7/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mayankshaw7/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mayankshaw7/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
@@ -48,6 +49,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankshaw7/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayankshaw7/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/mayankshaw7/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayankshaw7/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankshaw7/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankshaw7/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
