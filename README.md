@@ -18,6 +18,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/mayankshaw7/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/mayankshaw7/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0135-candy](https://github.com/mayankshaw7/DSA/tree/main/0135-candy/) | Hard |
 | [0162-find-peak-element](https://github.com/mayankshaw7/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/mayankshaw7/DSA/tree/main/0198-house-robber/) | Medium |
@@ -256,6 +257,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0022-generate-parentheses](https://github.com/mayankshaw7/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/mayankshaw7/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/mayankshaw7/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0198-house-robber](https://github.com/mayankshaw7/DSA/tree/main/0198-house-robber/) | Medium |
 | [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
@@ -310,6 +312,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/mayankshaw7/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
