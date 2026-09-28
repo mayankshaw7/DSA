@@ -74,6 +74,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0412-fizz-buzz](https://github.com/mayankshaw7/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankshaw7/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayankshaw7/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayankshaw7/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankshaw7/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -156,6 +157,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0145-binary-tree-postorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0901-online-stock-span](https://github.com/mayankshaw7/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankshaw7/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayankshaw7/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mayankshaw7/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayankshaw7/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
