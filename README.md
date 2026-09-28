@@ -17,6 +17,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/mayankshaw7/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/mayankshaw7/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mayankshaw7/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0135-candy](https://github.com/mayankshaw7/DSA/tree/main/0135-candy/) | Hard |
@@ -300,6 +301,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayankshaw7/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/mayankshaw7/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/mayankshaw7/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/mayankshaw7/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0077-combinations](https://github.com/mayankshaw7/DSA/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
 ## Longest Common Subsequence
