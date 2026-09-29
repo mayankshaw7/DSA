@@ -34,6 +34,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mayankshaw7/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mayankshaw7/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayankshaw7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/mayankshaw7/DSA/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mayankshaw7/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankshaw7/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -266,6 +267,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayankshaw7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +319,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mayankshaw7/DSA/tree/main/0064-minimum-path-sum/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayankshaw7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +348,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mayankshaw7/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayankshaw7/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayankshaw7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
