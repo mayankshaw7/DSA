@@ -22,6 +22,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0064-minimum-path-sum](https://github.com/mayankshaw7/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0135-candy](https://github.com/mayankshaw7/DSA/tree/main/0135-candy/) | Hard |
 | [0162-find-peak-element](https://github.com/mayankshaw7/DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0189-rotate-array](https://github.com/mayankshaw7/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/mayankshaw7/DSA/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayankshaw7/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
@@ -194,6 +195,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0062-unique-paths](https://github.com/mayankshaw7/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0089-gray-code](https://github.com/mayankshaw7/DSA/tree/main/0089-gray-code/) | Medium |
+| [0189-rotate-array](https://github.com/mayankshaw7/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0412-fizz-buzz](https://github.com/mayankshaw7/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
@@ -355,6 +357,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/mayankshaw7/DSA/tree/main/0189-rotate-array/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/mayankshaw7/DSA/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
