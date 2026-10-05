@@ -78,6 +78,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0043-multiply-strings](https://github.com/mayankshaw7/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/mayankshaw7/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/mayankshaw7/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/mayankshaw7/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankshaw7/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayankshaw7/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -164,6 +165,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0144-binary-tree-preorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayankshaw7/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/mayankshaw7/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/mayankshaw7/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/mayankshaw7/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankshaw7/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayankshaw7/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -361,6 +363,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0022-generate-parentheses](https://github.com/mayankshaw7/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/mayankshaw7/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/mayankshaw7/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/mayankshaw7/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayankshaw7/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayankshaw7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Two Pointers
