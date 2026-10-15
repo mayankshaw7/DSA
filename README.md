@@ -56,6 +56,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/mayankshaw7/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayankshaw7/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/mayankshaw7/DSA/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayankshaw7/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankshaw7/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankshaw7/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -209,6 +210,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0412-fizz-buzz](https://github.com/mayankshaw7/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
+| [2729-check-if-the-number-is-fascinating](https://github.com/mayankshaw7/DSA/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayankshaw7/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankshaw7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/mayankshaw7/DSA/tree/main/3870-count-commas-in-range/) | Easy |
