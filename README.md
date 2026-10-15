@@ -38,6 +38,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayankshaw7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/mayankshaw7/DSA/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mayankshaw7/DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayankshaw7/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankshaw7/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mayankshaw7/DSA/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/mayankshaw7/DSA/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
@@ -55,6 +56,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/mayankshaw7/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayankshaw7/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayankshaw7/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayankshaw7/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayankshaw7/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/mayankshaw7/DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -378,4 +380,12 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mayankshaw7/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayankshaw7/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayankshaw7/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
