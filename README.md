@@ -48,6 +48,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mayankshaw7/DSA/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayankshaw7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mayankshaw7/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/mayankshaw7/DSA/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +301,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0860-lemonade-change](https://github.com/mayankshaw7/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mayankshaw7/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/mayankshaw7/DSA/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/mayankshaw7/DSA/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
