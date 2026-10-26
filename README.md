@@ -33,6 +33,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/mayankshaw7/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mayankshaw7/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/mayankshaw7/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mayankshaw7/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/mayankshaw7/DSA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayankshaw7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -286,6 +287,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/mayankshaw7/DSA/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/mayankshaw7/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayankshaw7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -312,6 +314,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayankshaw7/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/mayankshaw7/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/mayankshaw7/DSA/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
