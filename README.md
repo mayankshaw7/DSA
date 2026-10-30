@@ -229,6 +229,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0175-combine-two-tables](https://github.com/mayankshaw7/DSA/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/mayankshaw7/DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/mayankshaw7/DSA/tree/main/0177-nth-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/mayankshaw7/DSA/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/mayankshaw7/DSA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0183-customers-who-never-order](https://github.com/mayankshaw7/DSA/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/mayankshaw7/DSA/tree/main/0196-delete-duplicate-emails/) | Easy |
