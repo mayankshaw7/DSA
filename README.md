@@ -48,6 +48,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayankshaw7/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayankshaw7/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mayankshaw7/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mayankshaw7/DSA/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayankshaw7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mayankshaw7/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -219,6 +220,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [2729-check-if-the-number-is-fascinating](https://github.com/mayankshaw7/DSA/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayankshaw7/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankshaw7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mayankshaw7/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/mayankshaw7/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/mayankshaw7/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayankshaw7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
