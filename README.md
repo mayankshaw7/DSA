@@ -47,6 +47,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/mayankshaw7/DSA/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayankshaw7/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/mayankshaw7/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayankshaw7/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mayankshaw7/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mayankshaw7/DSA/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
@@ -297,6 +298,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [1143-longest-common-subsequence](https://github.com/mayankshaw7/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mayankshaw7/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayankshaw7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/mayankshaw7/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
