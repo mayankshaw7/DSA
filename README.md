@@ -46,6 +46,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [2960-count-tested-devices-after-test-operations](https://github.com/mayankshaw7/DSA/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/mayankshaw7/DSA/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayankshaw7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mayankshaw7/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayankshaw7/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/mayankshaw7/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayankshaw7/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
