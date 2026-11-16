@@ -184,6 +184,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mayankshaw7/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/mayankshaw7/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayankshaw7/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Simulation
@@ -374,6 +375,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mayankshaw7/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
