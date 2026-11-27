@@ -25,6 +25,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0189-rotate-array](https://github.com/mayankshaw7/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/mayankshaw7/DSA/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayankshaw7/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0322-coin-change](https://github.com/mayankshaw7/DSA/tree/main/0322-coin-change/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/mayankshaw7/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayankshaw7/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayankshaw7/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -234,6 +235,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mayankshaw7/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0322-coin-change](https://github.com/mayankshaw7/DSA/tree/main/0322-coin-change/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +297,7 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | [0063-unique-paths-ii](https://github.com/mayankshaw7/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mayankshaw7/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0198-house-robber](https://github.com/mayankshaw7/DSA/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/mayankshaw7/DSA/tree/main/0322-coin-change/) | Medium |
 | [0486-predict-the-winner](https://github.com/mayankshaw7/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/mayankshaw7/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/mayankshaw7/DSA/tree/main/0740-delete-and-earn/) | Medium |
@@ -415,4 +418,12 @@ A curated repository dedicated to mastering core computer science concepts, algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayankshaw7/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/mayankshaw7/DSA/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/mayankshaw7/DSA/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
